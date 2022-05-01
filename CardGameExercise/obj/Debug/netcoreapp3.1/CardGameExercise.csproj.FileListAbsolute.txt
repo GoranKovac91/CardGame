@@ -1,0 +1,13 @@
+C:\Users\goran\source\repos\CardGameExercise\CardGameExercise\bin\Debug\netcoreapp3.1\CardGameExercise.exe
+C:\Users\goran\source\repos\CardGameExercise\CardGameExercise\bin\Debug\netcoreapp3.1\CardGameExercise.deps.json
+C:\Users\goran\source\repos\CardGameExercise\CardGameExercise\bin\Debug\netcoreapp3.1\CardGameExercise.runtimeconfig.json
+C:\Users\goran\source\repos\CardGameExercise\CardGameExercise\bin\Debug\netcoreapp3.1\CardGameExercise.runtimeconfig.dev.json
+C:\Users\goran\source\repos\CardGameExercise\CardGameExercise\bin\Debug\netcoreapp3.1\CardGameExercise.dll
+C:\Users\goran\source\repos\CardGameExercise\CardGameExercise\bin\Debug\netcoreapp3.1\CardGameExercise.pdb
+C:\Users\goran\source\repos\CardGameExercise\CardGameExercise\obj\Debug\netcoreapp3.1\CardGameExercise.csprojAssemblyReference.cache
+C:\Users\goran\source\repos\CardGameExercise\CardGameExercise\obj\Debug\netcoreapp3.1\CardGameExercise.AssemblyInfoInputs.cache
+C:\Users\goran\source\repos\CardGameExercise\CardGameExercise\obj\Debug\netcoreapp3.1\CardGameExercise.AssemblyInfo.cs
+C:\Users\goran\source\repos\CardGameExercise\CardGameExercise\obj\Debug\netcoreapp3.1\CardGameExercise.csproj.CoreCompileInputs.cache
+C:\Users\goran\source\repos\CardGameExercise\CardGameExercise\obj\Debug\netcoreapp3.1\CardGameExercise.dll
+C:\Users\goran\source\repos\CardGameExercise\CardGameExercise\obj\Debug\netcoreapp3.1\CardGameExercise.pdb
+C:\Users\goran\source\repos\CardGameExercise\CardGameExercise\obj\Debug\netcoreapp3.1\CardGameExercise.genruntimeconfig.cache

@@ -12,5 +12,18 @@ namespace CardGameExcercise
             this._attack = attack;
             this._durability = durability;
         }
+        public override string GetName()
+        {
+            return _name;
+        }
+        public override Rarity GetRarity()
+        {
+            return _rarity;
+        }
+      
+       
+
+
+
     }
 }

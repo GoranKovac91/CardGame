@@ -3,10 +3,10 @@ namespace CardGameExcercise
 {
     public enum Rarity
     {
-        Common,
-        Rare,
-        Epic,
-        Legendary
+        Common=20,
+        Rare=50,
+        Epic=100,
+        Legendary=400
     }
 }
 

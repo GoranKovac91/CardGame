@@ -9,5 +9,13 @@ namespace CardGameExcercise
         {
             this._armor = armor;
         }
+        public override string GetName()
+        {
+            return _name;
+        }
+        public override Rarity GetRarity()
+        {
+            return _rarity;
+        }
     }
 }

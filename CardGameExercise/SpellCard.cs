@@ -9,5 +9,15 @@ namespace CardGameExcercise
         {
             this._spell = spell;
         }
+
+        public override string GetName()
+        {
+            return _name;
+        }
+
+        public override Rarity GetRarity()
+        {
+            return _rarity;
+        }
     }
 }
